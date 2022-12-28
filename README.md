@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on anything that provides me the oppurtunity to learn and implement new things
-- 📫 How to reach me rishabh1000khandelwal@gmail.com
+- 📫 Reach me @ rishabh1000khandelwal@gmail.com
 
 <br><br>
 [![Garvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabhSpark&hide=contribs&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
