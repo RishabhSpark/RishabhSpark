@@ -5,7 +5,7 @@
 - 📫 Reach me @ rishabh1000khandelwal@gmail.com
 
 <br><br>
-[!Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabhSpark&hide=contribs&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabhSpark&hide=contribs&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br><br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RishabhSpark&theme=dark)](https://git.io/streak-stats)
