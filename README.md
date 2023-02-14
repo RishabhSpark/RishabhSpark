@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishabhSpark
 - 👀 I’m interested in Data Science, Machine Learning and Automation Testing
-- 🌱 I’m currently learning automation testing
+- 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on anything that provides me the oppurtunity to learn and implement new things
 - 📫 Reach me @ rishabh1000khandelwal@gmail.com
 
