@@ -15,4 +15,4 @@ RishabhSpark/RishabhSpark is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=RishabhSpark&theme=monokai&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=RishabhSpark&theme=monokai&count_private=true)
