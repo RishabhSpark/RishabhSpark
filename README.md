@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RishabhSpark
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Android Development
+- 👀 I’m interested in Data Science and Machine Learning <!-- - 🌱 I’m currently learning Android Development -->
 - 💞️ I’m looking to collaborate on anything that provides me the oppurtunity to learn and implement new things
 - 📫 Reach me @ rishabh1000khandelwal@gmail.com
 
