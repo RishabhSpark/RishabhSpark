@@ -4,7 +4,8 @@
 - 📫 Reach me @ rishabh1000khandelwal@gmail.com
 
 <br><br>
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabhSpark&hide=contribs&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats)-->  &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhSpark&layout=compact&count_private=true&theme=tokyonight)
+<!---![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabhSpark&hide=contribs&count_private=true&theme=tokyonight) ---> <!--(https://github.com/anuraghazra/github-readme-stats)-->  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhSpark&layout=compact&count_private=true&theme=tokyonight) &nbsp;&nbsp; 
 <br>
 <br><br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RishabhSpark&theme=dark)](https://git.io/streak-stats)
